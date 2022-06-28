@@ -2,5 +2,6 @@
 mi primer repositorio de practicas
 
 Nombre:Leonardo Estrada
-<h>Direccion: Yantzaza<h>
+Direccion: Yantzaza
 Correo: leo.ajila28@gmail.com
+Celular: 0986072358
