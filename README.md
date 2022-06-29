@@ -1,5 +1,5 @@
 # practicas-pre-20
-mi primer repositorio de practicas
+<span style="color: green"> Some green text </span>mi primer repositorio de practicas
 
 <h2><div class="formato">Nombre:Leonardo Estrada</div>
 <div class="formato">Direccion: Yantzaza</div>
